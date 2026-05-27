@@ -1,5 +1,4 @@
-Desafio Arrayy
-================
+
 
 **Descrição**: Repositório com exercícios em JavaScript que trabalham vetores (arrays) sem utilizar métodos prontos de arrays. Cada exercício está em sua própria pasta com um `index.html` e um `script.js`.
 
